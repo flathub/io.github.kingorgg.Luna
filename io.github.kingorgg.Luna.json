@@ -30,7 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/kingorgg/Luna.git",
-                    "tag" : "v49.12"
+                    "tag" : "v49.12",
+                    "commit" : "3b12f682a2cb3f25fddb52ed3ba260b3fcba79ba",
                 }
             ]
         }
